@@ -1,2 +1,1 @@
-# mids
-Malware Intrusion Detection System
+# Malware Intrusion Detection System
